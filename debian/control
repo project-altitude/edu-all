@@ -1,0 +1,17 @@
+Source: eduice-all
+Section: misc
+Priority: optional
+Maintainer: MountainOS <mountainoslinux@gmail.com>
+Homepage: mountainlinuxos.wordpress.com/eduice
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 3.9.2
+Rules-Requires-Root: no
+
+Package: eduice-all
+Architecture: all
+Depends: gnome-paint, gimp, kalgebra, inkscape, marble, kdenlive, kdevelop, kgeography, kwave, kwordquiz, librecad, subtitlecomposer, fritzing, chemtool, tuxtype, tuxmath, step, stellarium, kalzium, scilab, minuet, rocs, kig, ktechlab, labplot, kanagram
+Multi-Arch: foreign
+Description: EduIce tools all
+ This package installs all education apps for MountainOS EduIce
+ .
+ second paragraph
