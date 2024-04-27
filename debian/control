@@ -11,5 +11,5 @@ Package: edu-all
 Architecture: all
 Depends: gnome-paint, gimp, kalgebra, inkscape, marble, kdenlive, kdevelop, kgeography, kwave, kwordquiz, librecad, subtitlecomposer, fritzing, chemtool, tuxtype, tuxmath, step, stellarium, kalzium, scilab, minuet, rocs, kig, ktechlab, labplot, kanagram
 Multi-Arch: foreign
-Description: EduIce tools all
- This package installs all education apps for MountainOS EduIce
+Description: MOS Edu tools all
+ This package installs all education apps for MountainOS Edu
